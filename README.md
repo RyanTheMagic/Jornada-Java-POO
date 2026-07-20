@@ -14,6 +14,6 @@ A ideia deste repositório veio depois de um grande hiperfoco nos estudos de Jav
 
 Este repositório está dividido em 3 pastas:
 
-* **`EmCurso`** - Essa pasta armazena todo e qualquer "projeto" java que vou realizar ao decorrer de uma aula, ou seja, testar na prática o que está sendo ensinado. É dividido em subpastas padronizadas por número do módulo e nome do módulo (ex:m03_introducao_a_linguagem_java) e contém um comentário no início de cada código indicando a aula e a seção daquele conteúdo.
+* **`EmCurso`** - Essa pasta armazena todo e qualquer "projeto" java que vou realizar ao decorrer de uma aula, ou seja, testar na prática o que está sendo ensinado. É dividido em subpastas padronizadas por número do módulo e nome do módulo (ex:`m03_introducao_a_linguagem_java`) e contém um comentário no início de cada código indicando a aula e a seção daquele conteúdo.
 * **`Exercicios`** - Essa pasta armazena todos os exercícios do curso, seja exercícios de exemplo ou exercícios práticos das seções (Essa pasta não armazenará exercícios manuscritos).
 * **`Meus Projetos`** - Autoexplicativo, essa pasta armazenará qualquer ideia que eu tenha e queira transformar em projeto no Java.
